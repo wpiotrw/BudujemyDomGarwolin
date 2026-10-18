@@ -2,7 +2,7 @@
 
 Strona z raportem „Dom w Garwolinie – analiza działek i domów” (działki 2221 i 2224, obręb 0001 Miasto Garwolin).
 
-Autor: Piotr Wiśniewski — APN Promise S.A.
+Autor: Piotr Wiśniewski
 
 ## Zawartość
 
