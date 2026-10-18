@@ -24,5 +24,5 @@ To repozytorium i strona są publiczne. Z raportu usunięto dane o dochodach i s
 
 | Wersja | Data | Zmiana |
 |---|---|---|
-| 2.2 | 18.10.2026 | Tabela zgodności domów z MPZP nr 007 (zielone – spełnia, czerwone – nie spełnia, żółte – do sprawdzenia). |
+| 2.2 | 18.10.2026 | Tabela zgodności domów z MPZP nr 007; tabela „Media przy działkach – porównanie”; poprawione położenie studni na mapie wysokości. |
 | 2.1 | 18.10.2026 | Pierwsza publikacja strony na podstawie raportu v2.1 (menu boczne, motyw jasny/ciemny, wysokości terenu). |
