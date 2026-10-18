@@ -14,7 +14,7 @@ Autor: Piotr Wiśniewski — APN Promise S.A.
 
 ## Publikacja
 
-Strona jest publikowana przez GitHub Pages z gałęzi `main`, katalog główny (`/`). Każdy push do `main` aktualizuje stronę po ok. 1–2 minutach.
+Repozytorium: `wpiotrw/BudujemyDomGarwolin`. Strona jest publikowana pod adresem https://domgarwolin.azureme.pl przez GitHub Pages z gałęzi `main`, katalog główny (`/`). Każdy push do `main` aktualizuje stronę po ok. 1–2 minutach.
 
 ## Wersja publiczna
 
